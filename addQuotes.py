@@ -15,4 +15,3 @@ if __name__ == "__main__":
     except:
         print "File " + input_file + " does not exist"
         exit(-1)
- 
